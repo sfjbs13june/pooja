@@ -1,0 +1,19 @@
+hospital:
+  create:
+    url: create/hospital
+  read:
+    url: read/hospital
+  update:
+    url: update/hospital
+  delete:
+    url: delete/hospital
+
+patient:
+  create:
+    url: create/patient
+  read:
+    url: read/patient
+  update:
+    url: update/patient
+  delete:
+    url: delete/patient
